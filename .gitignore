@@ -40,3 +40,6 @@
 yarn-debug.log*
 .yarn-integrity
 
+#ignore linter files
+.stylelintrc.json
+.rubocop.yml
